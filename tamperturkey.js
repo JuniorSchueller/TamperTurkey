@@ -82,6 +82,7 @@ style.innerText = `
         background: white;
         border-radius: 100%;
         border: solid 1px white;
+        z-index: 9999;
     }
 
     #floating-logo:hover {
@@ -102,6 +103,7 @@ style.innerText = `
         max-width: 90%;
         display: none;
         animation: fadeIn 0.3s ease-out;
+        z-index: 9999;
     }
 
     .tamperTurkey.add {
