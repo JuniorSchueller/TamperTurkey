@@ -60,8 +60,7 @@ textarea.value = `=START
 = SCRIPT_AUTHOR - Você
 = SCRIPT_VERSION - 1.0
 =END
-
-window.alert('TamperTurkey is working!');`;
+window.alert('TamperTurkey está funcionando! 🎉');`;
 tamperTurkeyAddMenuC.appendChild(textarea);
 
 const addButtonMenu = document.createElement('button');
